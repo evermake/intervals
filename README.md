@@ -17,8 +17,7 @@ bunx jsr add @evermake/intervals
 ## Usage
 
 ```ts
-import { merge } from "@evermake/intervals";
-import { exclude } from "@evermake/intervals";
+import { merge, exclude } from "@evermake/intervals";
 
 // Merge number intervals
 merge([[1, 3], [2, 6], [8, 10]]);
