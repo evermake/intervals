@@ -1,5 +1,5 @@
 /**
- * This module implements exclusion overlapping intervals.
+ * This module implements exclusion of overlapping intervals.
  *
  * @module
  */
